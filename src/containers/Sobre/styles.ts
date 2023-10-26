@@ -9,7 +9,7 @@ export const GithubSecao = styled.div`
 
     @media (max-width: 768px) {
       width: 100%;
-      height: 100%;
+      height: auto;
       margin-top: 16px;
       margin-bottom: 8px;
     }
